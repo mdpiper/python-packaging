@@ -5,7 +5,7 @@ Changelog for amazeinator
 0.1.2 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Prepend "v" to version set by zest.releaser
 
 
 0.1.1 (2020-09-24)
