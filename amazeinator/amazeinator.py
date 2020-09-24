@@ -9,3 +9,6 @@ class Amazeinator:
 
     def amaze(self):
         return "{}, this is totally amazing!".format(self.user)
+
+    def truly(self):
+        return "Truly amazing."
