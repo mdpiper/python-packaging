@@ -8,7 +8,7 @@ def read(filename):
 
 
 long_description = u'\n\n'.join(
-    [read('README.md'), read('CREDITS.rst'), read('CHANGES.rst')]
+    [read('README.rst'), read('CREDITS.rst'), read('CHANGES.rst')]
 )
 
 
