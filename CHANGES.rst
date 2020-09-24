@@ -1,3 +1,7 @@
+Changelog for amazeinator
+=========================
+
+
 0.1.1 (unreleased)
 ------------------
 
