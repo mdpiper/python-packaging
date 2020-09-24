@@ -2,7 +2,7 @@ Changelog for amazeinator
 =========================
 
 
-0.1.1 (unreleased)
+0.1.1 (2020-09-24)
 ------------------
 
 - Use rst instead of md for README
