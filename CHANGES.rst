@@ -5,7 +5,7 @@ Changelog for amazeinator
 0.1.3 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Add vital new ``amazeinator`` method
 
 
 0.1.2 (2020-09-24)
