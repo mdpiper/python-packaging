@@ -14,7 +14,7 @@ long_description = u'\n\n'.join(
 
 setup(
     name="amazeinator",
-    version="0.1.0.dev0",
+    version="0.1.0",
     description="An amazing Pyhton package",
     long_description=long_description,
     author="Mark Piper",
